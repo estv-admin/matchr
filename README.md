@@ -1,3 +1,7 @@
+## DIP USAGE
+
+This library is used in the masterdata microservice city search to try and fulltext search cities with slight typos.
+
 # matchr
 
 An approximate string matching library for the [Go programming language](http://www.golang.org).
